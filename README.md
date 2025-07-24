@@ -22,11 +22,6 @@ This application creates a unique audio narrative from any image through a three
    - Leverages [espnet/kan-bayashi_ljspeech_vits](https://huggingface.co/espnet/kan-bayashi_ljspeech_vits)
    - Converts the story into natural-sounding speech
 
-## 🎬 Demo Showcase
-
-![Family Story Demo](img-audio/FamilyOutput.jpg)
-
-*Audio samples for these demos are available in the `img-audio` folder*
 
 ## 🛠️ Setup & Installation
 
