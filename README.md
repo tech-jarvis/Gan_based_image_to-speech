@@ -24,7 +24,6 @@ This application creates a unique audio narrative from any image through a three
 
 ## 🎬 Demo Showcase
 
-![Couple Story Demo](img-audio/CoupleOutput.jpg)
 ![Family Story Demo](img-audio/FamilyOutput.jpg)
 
 *Audio samples for these demos are available in the `img-audio` folder*
